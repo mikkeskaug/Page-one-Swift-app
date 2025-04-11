@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "store-card-13-iphone-nav-202409_GEO_EMEA-2.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "store-card-13-iphone-nav-202409_GEO_EMEA-2 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "store-card-13-iphone-nav-202409_GEO_EMEA-2 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

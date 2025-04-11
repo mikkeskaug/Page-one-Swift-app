@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "26026613-977A-4642-B692-A6A584C356C4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "584F4E8A-E535-4231-A8EB-348661606224"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Page one - Din lokale Apple forhandler/ShopConnectViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EBBFCC8A-E56F-4955-A195-8943FA68684E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Page one - Din lokale Apple forhandler/ShopConnectViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "46"
+            endingLineNumber = "46"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "EBBFCC8A-E56F-4955-A195-8943FA68684E - 542b8a8e888812b3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Page_one___Din_lokale_Apple_forhandler.ShopConnectViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Page one - Din lokale Apple forhandler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonmikaelskaug/Documents/Page%20one%20-%20Din%20lokale%20Apple%20forhandler/Page%20one%20-%20Din%20lokale%20Apple%20forhandler/ShopConnectViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "44"
+                  endingLineNumber = "44"
+                  offsetFromSymbolStart = "2612">
+               </Location>
+               <Location
+                  uuid = "EBBFCC8A-E56F-4955-A195-8943FA68684E - 9c2f6b200e54b86b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "function signature specialization &lt;Arg[3] = Value Promoted from Box&gt; of closure #1 (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in Page_one___Din_lokale_Apple_forhandler.ShopConnectViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "Page one - Din lokale Apple forhandler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jonmikaelskaug/Documents/Page%20one%20-%20Din%20lokale%20Apple%20forhandler/Page%20one%20-%20Din%20lokale%20Apple%20forhandler/ShopConnectViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "45"
+                  endingLineNumber = "45"
+                  offsetFromSymbolStart = "518">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "69AE0A24-3591-4C76-8F52-AAECB5B0F7E3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Page one - Din lokale Apple forhandler/ShopConnectViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
